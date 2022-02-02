@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Dnasam
-- 👀 I’m interested in learning new advancement in various development fields
+- 👋 Hi, This is Samvedna :)
+- 👀 I’m an upcoming Engineer in the field of Computer Science.
 - 🌱 I’m currently learning DSA and a beginner in Django framework
-- 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me --> https://twitter.com/samvedna_b
 
 <!---
