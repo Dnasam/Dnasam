@@ -1,6 +1,6 @@
 - 👋 Hi, This is Samvedna :)
 - 👀 I’m an upcoming Engineer in the field of Computer Science.
-- 🌱 I’m currently learning DSA and a beginner in Django framework
+- 🌱 I’m currently learning DSA and a beginner in web development
 - 📫 How to reach me --> https://twitter.com/samvedna_b
 
 <!---
