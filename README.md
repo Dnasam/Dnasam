@@ -1,7 +1,6 @@
 - 👋 Hi, This is Samvedna :)
-- 👀 I’m an upcoming Engineer in the field of Computer Science.
-- 🌱 I’m currently learning DSA and a beginner in web development
-- 📫 How to reach me --> https://twitter.com/samvedna_b
+- 👀 I am an upcoming Engineer in the field of Computer Science.
+- 🌱 I am currently learning Machine Learning and Full Stack development
 
 <!---
 Dnasam/Dnasam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
